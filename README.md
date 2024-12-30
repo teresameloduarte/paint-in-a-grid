@@ -4,7 +4,7 @@ paint-in-a-grid is a simple yet creative Java exercise developed during the 5th 
 
 🐢 **what is paint-in-a-grid?**
 
-paint-in-a-grid is a minimalist application where users interact with a grid to "paint" cells using a single color. With just the space key, you can toggle between drawing and erasing, creating pixel-like art. This project focuses on mastering core programming concepts and graphical libraries.
+- paint-in-a-grid is a minimalist application where users interact with a grid to "paint" cells using a single color. With just the space key, you can toggle between drawing and erasing, creating pixel-like art. This project focuses on mastering core programming concepts and graphical libraries.
 
 🐢 **features**
 
