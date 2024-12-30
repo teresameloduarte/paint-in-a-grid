@@ -19,7 +19,7 @@ paint-in-a-grid is a simple yet creative Java exercise developed during the 5th 
 - simpleGraphics library: For creating the grid, handling input, and rendering graphics.
   
 
-🐢 **demo:**
+🐢 **screenshot:**
 
 
   <img width="602" alt="turtle-demo" src="https://github.com/user-attachments/assets/f927112c-e4a7-43a6-b624-91d50073bf30" />
